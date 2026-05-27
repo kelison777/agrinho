@@ -89,27 +89,27 @@ function toggleTech(button) {
 // Dados do quiz
 const quizData = [
     {
-        pergunta: "O que é agricultura de precisão?",
+        pergunta: "Qual a principal funçao da agricutura",
         opcoes: [
-            "Aplicação localizada de insumos usando GPS",
-            "Plantio manual muito cuidadoso",
-            "Uso de muitos agroquímicos",
-            "Cultivo apenas em clima frio"
+            "Produzir alimentos e matérias-primas",
+            "Fabricar aparelhos eletrônicos.",
+            "Construir estradas e pontes".,
+            "Extrair petróleo do solo."
         ],
-        resposta: 0
+        resposta: 1
     },
     {
-        pergunta: "Qual é o benefício principal dos drones na agricultura?",
+        pergunta: "Qual é a importância da agricultura?",
         opcoes: [
-            "Substituir completamente os agricultores",
-            "Monitorar culturas e detectar pragas com câmeras especiais",
+            "Produzir alimentos e gerar empregos.",
+            "Fabricar carros e aviões.",
             "Aumentar o preço dos produtos",
             "Reduzir a qualidade das colheitas"
         ],
         resposta: 1
     },
     {
-        pergunta: "Como a IA ajuda no agronegócio?",
+        pergunta: "Como a tecnologia ajuda o agronegocio",
         opcoes: [
             "Apenas para decoração das fazendas",
             "Análise preditiva de dados para otimizar plantio e irrigação",
@@ -119,12 +119,12 @@ const quizData = [
         resposta: 1
     },
     {
-        pergunta: "Qual é o impacto dos sensores IoT na água?",
+        pergunta: "Quais sao os principais equipamentos para agricutura",
         opcoes: [
-            "Aumentam o consumo de água",
-            "Permitem irrigação precisa, economizando até 40% de água",
-            "Poluem a água do solo",
-            "Não têm relação com água"
+            "Trator e colheitadeira.",
+            "Sofá e mesa.",
+            "caminhao e moto",
+            "robo"
         ],
         resposta: 1
     },
